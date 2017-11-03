@@ -168,6 +168,8 @@ public class MainActivity extends AppCompatActivity {
   ]
     }
 
+    //AIzaSyAdx7nDBJnI6OxmJCgLlbyMjrhlsZTX_zs google map api key
+
     JSONObject createJson(int cid,int lac,int mcc,int mnc,int singnal,int age,int timingadvance){
         JSONObject jsonObject=null;
         try {
