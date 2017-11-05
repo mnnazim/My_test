@@ -7,49 +7,31 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="sdfs"
-        android:id="@+id/tvcarrier"
+        android:text="sdfdfsf"
         />
     <TextView
         android:id="@+id/gsmcelllocation"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="sdfs"
+        />
+    <TextView
+        android:id="@+id/mcc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/mnc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
         />
     <TextView
         android:id="@+id/cid"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="sdfs"
         />
     <TextView
-        android:id="@+id/lac"
+        android:id="@+id/neighboring"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="sdfs"
         />
-    <TextView
-        android:id="@+id/geo"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="sdfs"
-        />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Button" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <Button
-        android:id="@+id/btncell"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Neighbour" />
 </LinearLayout>
